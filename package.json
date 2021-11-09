@@ -1,0 +1,14 @@
+{
+  "name": "graceland",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pubby",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.4.0-dev.1636157105.49e3ce2"
+  }
+}
